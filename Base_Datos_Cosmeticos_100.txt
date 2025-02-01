@@ -1,0 +1,799 @@
+ID: 001
+Nombre: Labial Mate Rojo
+Categoría: Cuidado de la piel
+Precio: 4240 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 133
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 002
+Nombre: Serum Facial
+Categoría: Cuidado corporal
+Precio: 3182 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 37
+Ingredientes: Aceite de argán, Keratina
+
+ID: 003
+Nombre: Rubor Compacto
+Categoría: Cuidado del cabello
+Precio: 4247 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 62
+Ingredientes: Aceite de argán, Keratina
+
+ID: 004
+Nombre: Acondicionador Hidratante
+Categoría: Cuidado de la piel
+Precio: 2433 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 117
+Ingredientes: Aceite de argán, Keratina
+
+ID: 005
+Nombre: Protector Solar
+Categoría: Cuidado de la piel
+Precio: 2961 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 195
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 006
+Nombre: Corrector de Ojeras
+Categoría: Cuidado de la piel
+Precio: 2219 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 188
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 007
+Nombre: Delineador Líquido
+Categoría: Maquillaje
+Precio: 4907 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 128
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 008
+Nombre: Corrector de Ojeras
+Categoría: Maquillaje
+Precio: 2624 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 75
+Ingredientes: Aceite de argán, Keratina
+
+ID: 009
+Nombre: Loción Corporal
+Categoría: Cuidado corporal
+Precio: 4246 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 195
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 010
+Nombre: Mascarilla Capilar
+Categoría: Cuidado del cabello
+Precio: 1076 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 155
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 011
+Nombre: Delineador Líquido
+Categoría: Maquillaje
+Precio: 3325 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 40
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 012
+Nombre: Mascarilla Capilar
+Categoría: Cuidado corporal
+Precio: 596 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 136
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 013
+Nombre: Acondicionador Hidratante
+Categoría: Maquillaje
+Precio: 2542 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 56
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 014
+Nombre: Acondicionador Hidratante
+Categoría: Maquillaje
+Precio: 778 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 54
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 015
+Nombre: Shampoo Reparador
+Categoría: Cuidado de la piel
+Precio: 3362 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 84
+Ingredientes: Aceite de argán, Keratina
+
+ID: 016
+Nombre: Rubor Compacto
+Categoría: Cuidado corporal
+Precio: 3368 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 191
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 017
+Nombre: Acondicionador Hidratante
+Categoría: Cuidado corporal
+Precio: 3141 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 13
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 018
+Nombre: Base Líquida
+Categoría: Cuidado corporal
+Precio: 4663 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 147
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 019
+Nombre: Aceite para Cutículas
+Categoría: Cuidado de la piel
+Precio: 4977 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 76
+Ingredientes: Aceite de argán, Keratina
+
+ID: 020
+Nombre: Shampoo Reparador
+Categoría: Cuidado corporal
+Precio: 4883 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 157
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 021
+Nombre: Loción Corporal
+Categoría: Cuidado de la piel
+Precio: 2406 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 20
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 022
+Nombre: Rubor Compacto
+Categoría: Maquillaje
+Precio: 2978 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 151
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 023
+Nombre: Mascarilla Capilar
+Categoría: Cuidado del cabello
+Precio: 1584 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 183
+Ingredientes: Aceite de argán, Keratina
+
+ID: 024
+Nombre: Labial Mate Rojo
+Categoría: Maquillaje
+Precio: 1753 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 194
+Ingredientes: Aceite de argán, Keratina
+
+ID: 025
+Nombre: Protector Solar
+Categoría: Cuidado del cabello
+Precio: 1887 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 121
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 026
+Nombre: Crema Antiarrugas
+Categoría: Cuidado de la piel
+Precio: 2308 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 103
+Ingredientes: Aceite de argán, Keratina
+
+ID: 027
+Nombre: Crema Antiarrugas
+Categoría: Cuidado corporal
+Precio: 696 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 86
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 028
+Nombre: Base Líquida
+Categoría: Cuidado corporal
+Precio: 627 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 80
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 029
+Nombre: Crema para Manos
+Categoría: Cuidado de la piel
+Precio: 4151 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 72
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 030
+Nombre: Protector Solar
+Categoría: Maquillaje
+Precio: 1192 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 142
+Ingredientes: Aceite de argán, Keratina
+
+ID: 031
+Nombre: Spray Fijador
+Categoría: Cuidado de la piel
+Precio: 1608 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 112
+Ingredientes: Aceite de argán, Keratina
+
+ID: 032
+Nombre: Serum Facial
+Categoría: Maquillaje
+Precio: 3307 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 45
+Ingredientes: Aceite de argán, Keratina
+
+ID: 033
+Nombre: Labial Mate Rojo
+Categoría: Maquillaje
+Precio: 858 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 124
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 034
+Nombre: Labial Mate Rojo
+Categoría: Cuidado de la piel
+Precio: 2567 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 125
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 035
+Nombre: Base Líquida
+Categoría: Cuidado del cabello
+Precio: 1582 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 103
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 036
+Nombre: Labial Mate Rojo
+Categoría: Cuidado de la piel
+Precio: 4853 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 186
+Ingredientes: Aceite de argán, Keratina
+
+ID: 037
+Nombre: Labial Mate Rojo
+Categoría: Cuidado de la piel
+Precio: 994 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 93
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 038
+Nombre: Corrector de Ojeras
+Categoría: Maquillaje
+Precio: 2344 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 127
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 039
+Nombre: Acondicionador Hidratante
+Categoría: Cuidado del cabello
+Precio: 973 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 88
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 040
+Nombre: Tónico Facial
+Categoría: Maquillaje
+Precio: 849 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 98
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 041
+Nombre: Sombras de Ojos
+Categoría: Cuidado corporal
+Precio: 1044 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 142
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 042
+Nombre: Rubor Compacto
+Categoría: Cuidado del cabello
+Precio: 3848 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 172
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 043
+Nombre: Protector Solar
+Categoría: Cuidado corporal
+Precio: 750 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 18
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 044
+Nombre: Shampoo Reparador
+Categoría: Cuidado del cabello
+Precio: 2698 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 61
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 045
+Nombre: Base Líquida
+Categoría: Cuidado de la piel
+Precio: 3831 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 194
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 046
+Nombre: Crema Antiarrugas
+Categoría: Cuidado del cabello
+Precio: 4707 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 17
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 047
+Nombre: Crema para Manos
+Categoría: Cuidado corporal
+Precio: 2296 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 180
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 048
+Nombre: Delineador Líquido
+Categoría: Maquillaje
+Precio: 665 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 20
+Ingredientes: Aceite de argán, Keratina
+
+ID: 049
+Nombre: Crema para Manos
+Categoría: Cuidado corporal
+Precio: 3895 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 121
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 050
+Nombre: Serum Facial
+Categoría: Maquillaje
+Precio: 782 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 126
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 051
+Nombre: Crema Antiarrugas
+Categoría: Maquillaje
+Precio: 2711 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 55
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 052
+Nombre: Protector Solar
+Categoría: Cuidado corporal
+Precio: 1746 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 115
+Ingredientes: Aceite de argán, Keratina
+
+ID: 053
+Nombre: Loción Corporal
+Categoría: Cuidado corporal
+Precio: 4893 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 45
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 054
+Nombre: Spray Fijador
+Categoría: Cuidado del cabello
+Precio: 1154 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 119
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 055
+Nombre: Loción Corporal
+Categoría: Maquillaje
+Precio: 4240 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 183
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 056
+Nombre: Esmalte de Uñas
+Categoría: Cuidado del cabello
+Precio: 3937 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 75
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 057
+Nombre: Shampoo Reparador
+Categoría: Cuidado del cabello
+Precio: 1792 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 60
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 058
+Nombre: Crema para Manos
+Categoría: Cuidado de la piel
+Precio: 1297 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 61
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 059
+Nombre: Rubor Compacto
+Categoría: Cuidado corporal
+Precio: 4745 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 41
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 060
+Nombre: Rubor Compacto
+Categoría: Cuidado de la piel
+Precio: 573 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 41
+Ingredientes: Aceite de argán, Keratina
+
+ID: 061
+Nombre: Aceite para Cutículas
+Categoría: Cuidado corporal
+Precio: 4750 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 38
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 062
+Nombre: Protector Solar
+Categoría: Cuidado de la piel
+Precio: 3283 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 69
+Ingredientes: Aceite de argán, Keratina
+
+ID: 063
+Nombre: Crema Hidratante Facial
+Categoría: Cuidado de la piel
+Precio: 644 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 121
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 064
+Nombre: Crema para Manos
+Categoría: Cuidado corporal
+Precio: 3359 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 73
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 065
+Nombre: Crema para Manos
+Categoría: Maquillaje
+Precio: 1440 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 100
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 066
+Nombre: Acondicionador Hidratante
+Categoría: Cuidado de la piel
+Precio: 3305 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 72
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 067
+Nombre: Rubor Compacto
+Categoría: Maquillaje
+Precio: 2498 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 31
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 068
+Nombre: Serum Facial
+Categoría: Cuidado del cabello
+Precio: 839 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 82
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 069
+Nombre: Base Líquida
+Categoría: Cuidado del cabello
+Precio: 3387 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 72
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 070
+Nombre: Acondicionador Hidratante
+Categoría: Cuidado de la piel
+Precio: 4932 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 167
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 071
+Nombre: Acondicionador Hidratante
+Categoría: Maquillaje
+Precio: 4008 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 120
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 072
+Nombre: Sombras de Ojos
+Categoría: Cuidado corporal
+Precio: 1472 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 188
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 073
+Nombre: Crema para Manos
+Categoría: Cuidado del cabello
+Precio: 2372 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 64
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 074
+Nombre: Mascarilla Capilar
+Categoría: Cuidado de la piel
+Precio: 4205 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 68
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 075
+Nombre: Crema para Manos
+Categoría: Cuidado corporal
+Precio: 1644 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 51
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 076
+Nombre: Labial Mate Rojo
+Categoría: Cuidado corporal
+Precio: 3715 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 155
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 077
+Nombre: Shampoo Reparador
+Categoría: Cuidado de la piel
+Precio: 3671 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 140
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 078
+Nombre: Protector Solar
+Categoría: Maquillaje
+Precio: 3824 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 186
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 079
+Nombre: Crema Antiarrugas
+Categoría: Cuidado del cabello
+Precio: 3268 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 23
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 080
+Nombre: Spray Fijador
+Categoría: Cuidado de la piel
+Precio: 2180 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 168
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 081
+Nombre: Base Líquida
+Categoría: Cuidado del cabello
+Precio: 3312 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 35
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 082
+Nombre: Crema Hidratante Facial
+Categoría: Cuidado de la piel
+Precio: 3927 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 137
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 083
+Nombre: Serum Facial
+Categoría: Cuidado corporal
+Precio: 3009 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 121
+Ingredientes: Cera de abeja, Pigmentos minerales
+
+ID: 084
+Nombre: Tónico Facial
+Categoría: Maquillaje
+Precio: 1564 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 149
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 085
+Nombre: Rubor Compacto
+Categoría: Cuidado corporal
+Precio: 2857 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 45
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 086
+Nombre: Mascarilla Capilar
+Categoría: Maquillaje
+Precio: 4710 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 130
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 087
+Nombre: Base Líquida
+Categoría: Maquillaje
+Precio: 2234 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 127
+Ingredientes: Aceite de argán, Keratina
+
+ID: 088
+Nombre: Crema para Manos
+Categoría: Cuidado corporal
+Precio: 1250 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 156
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 089
+Nombre: Labial Mate Rojo
+Categoría: Cuidado corporal
+Precio: 4229 ARS
+Descripción: De rápida absorción y adecuado para todo tipo de piel.
+Stock: 19
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 090
+Nombre: Crema para Manos
+Categoría: Cuidado del cabello
+Precio: 4448 ARS
+Descripción: Formulación libre de parabenos y dermatológicamente probada.
+Stock: 127
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 091
+Nombre: Loción Corporal
+Categoría: Maquillaje
+Precio: 2999 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 84
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 092
+Nombre: Protector Solar
+Categoría: Cuidado corporal
+Precio: 3791 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 78
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 093
+Nombre: Acondicionador Hidratante
+Categoría: Cuidado corporal
+Precio: 2445 ARS
+Descripción: Producto de alta calidad diseñado para uso diario.
+Stock: 47
+Ingredientes: Extracto de aloe vera, Colágeno
+
+ID: 094
+Nombre: Spray Fijador
+Categoría: Cuidado corporal
+Precio: 1880 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 171
+Ingredientes: Aceite de argán, Keratina
+
+ID: 095
+Nombre: Shampoo Reparador
+Categoría: Cuidado corporal
+Precio: 3702 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 161
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 096
+Nombre: Tónico Facial
+Categoría: Maquillaje
+Precio: 4924 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 45
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 097
+Nombre: Aceite para Cutículas
+Categoría: Cuidado del cabello
+Precio: 4515 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 80
+Ingredientes: Agua, Glicerina, Vitamina E
+
+ID: 098
+Nombre: Shampoo Reparador
+Categoría: Cuidado del cabello
+Precio: 3350 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 24
+Ingredientes: Ácido hialurónico, Niacinamida
+
+ID: 099
+Nombre: Aceite para Cutículas
+Categoría: Cuidado corporal
+Precio: 3650 ARS
+Descripción: Enriquecido con ingredientes naturales para mejores resultados.
+Stock: 149
+Ingredientes: Aceite de argán, Keratina
+
+ID: 100
+Nombre: Delineador Líquido
+Categoría: Cuidado de la piel
+Precio: 1915 ARS
+Descripción: Ofrece una experiencia profesional desde casa.
+Stock: 48
+Ingredientes: Ácido hialurónico, Niacinamida
