@@ -26,8 +26,8 @@ messages = [
 
 # Carga de archivos
 file_paths = [
-    "D:/Martin/Nueva carpeta/Base_Datos_Cosmeticos_100.txt",
-    "D:/Martin/Nueva carpeta/Informacion_Empresa_Cosmeticos.txt"
+    "D:/Martin/Testeo/Base_Datos_Cosmeticos_100.txt",
+    "D:/Martin/Testeo/Informacion_Empresa_Cosmeticos.txt"
 ]
 
 for file_path in file_paths:
